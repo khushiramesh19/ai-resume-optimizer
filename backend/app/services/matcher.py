@@ -1,5 +1,5 @@
 ﻿import re
-from typing import Dict, List, Set, Tuple, Any
+from typing import Dict, List, Set, Tuple, Any, Optional
 
 COMMON_STOPWORDS = {
     "a", "about", "above", "after", "again", "against", "all", "am", "an", "and",
